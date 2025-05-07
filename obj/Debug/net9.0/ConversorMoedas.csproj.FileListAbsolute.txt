@@ -1,0 +1,14 @@
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\ConversorMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\ConversorMoedas.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\ConversorMoedas.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\ConversorMoedas.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\bin\Debug\net9.0\ConversorMoedas.exe
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\bin\Debug\net9.0\ConversorMoedas.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\bin\Debug\net9.0\ConversorMoedas.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\bin\Debug\net9.0\ConversorMoedas.dll
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\bin\Debug\net9.0\ConversorMoedas.pdb
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\ConversorMoedas.dll
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\refint\ConversorMoedas.dll
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\ConversorMoedas.pdb
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\ConversorMoedas.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Projetos\ConversorMoedas\obj\Debug\net9.0\ref\ConversorMoedas.dll
